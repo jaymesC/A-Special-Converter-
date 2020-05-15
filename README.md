@@ -1,2 +1,3 @@
-# A-Special-Converter-
+# A-Special degree-Converter-
 Mainly used to convert degree Celsius values to Fahrenheit  values.
+Hello, I'm a young developer who just started his coding journey. And this is officially my first project.I believe the only way to be a good at coding as a developer is by actually writing codes and trying to build something.Thank you...
